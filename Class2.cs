@@ -9,6 +9,5 @@ namespace ConsoleApp1
         vxcc
             Vxcc
             csddscs
-            xzczxcx
     }
 }
